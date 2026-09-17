@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://aalaqily.github.io"
+base_url = "https://ahmadnull.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -73,17 +73,17 @@ simplified_tags = false
 # Social links
 social_links = [
   { platform = "email", user_id = "ahmadasaadh@gmail.com" },
-  { platform = "github", user_id = "aalaqily" },
+  { platform = "github", user_id = "ahmadnull" },
   { platform = "feed", user_id = true },
 ]
 
 # GitHub settings that are used to generate the edit page link
 [extra.github]
-username = "aalaqily"
-repo = "aalaqily.github.io"
+username = "ahmadnull"
+repo = "ahmadnull.github.io"
 
 [extra.giscus]
-repo = "aalaqily/aalaqily.github.io"
+repo = "ahmadnull/ahmadnull.github.io"
 repo_id = "R_kgDOMFOWEw"
 category = "Comments"
 category_id = "DIC_kwDOMFOWE84C5tB5"

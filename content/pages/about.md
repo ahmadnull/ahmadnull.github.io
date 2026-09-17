@@ -26,18 +26,18 @@ type = "Person"
 - ☁️ I dream to: become a physicist
 - 🌱 I’m currently: {a preparatory-year engineering student, studying CS50, learning Rust}
 - 👀 I’m interested in: {mathematics, physics, theoretical computer science, programming, problem solving}.and(anything related)
-- 📜 Take a look at my [certificates](https://github.com/aalaqily/aalaqily/tree/main/certificates)
+- 📜 Take a look at my [certificates](https://github.com/ahmadnull/ahmadnull/tree/main/certificates)
 - <a title="Judd Vinet, Aaron Griffin and Levente Polyák, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Arch_Linux_%22Crystal%22_icon.svg"><img width="16" alt="Arch Linux &quot;Crystal&quot; icon" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg"></a> I use **Arch** btw :)
 
 # <samp>ls -l | grep '^l'</samp>
-[![GitLab](https://img.shields.io/badge/GitLab-black?logo=gitlab)](https://gitlab.com/aalaqily)
-[![GitLab](https://img.shields.io/badge/DEV-black?logo=dev.to)](https://dev.to/aalaqily)
+[![GitLab](https://img.shields.io/badge/GitLab-black?logo=gitlab)](https://gitlab.com/ahmadnull)
+[![GitLab](https://img.shields.io/badge/DEV-black?logo=dev.to)](https://dev.to/ahmadnull)
 [![Discord](https://img.shields.io/badge/Discord-black?logo=discord)](https://discord.com/users/580785454782218270)
 [![Codeforces](https://img.shields.io/badge/Codeforces-black?logo=codeforces)](https://codeforces.com/profile/iAhmadGad)
 [![Codewars](https://img.shields.io/badge/Codewars-black?logo=codewars&logoColor=f15c56)](https://www.codewars.com/users/0xAhmad)
 [![Project Euler][Project Euler badge]](https://projecteuler.net/progress=0xAhmad)
-[![Exercism][Exercism badge]](https://exercism.org/profiles/aalaqily)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/aalaqily)
+[![Exercism][Exercism badge]](https://exercism.org/profiles/ahmadnull)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/ahmadnull)
 [![scratch](https://img.shields.io/badge/Scratch-black?logo=scratch)](https://scratch.mit.edu/users/iAhmadGad/)
 
 # <samp>ls stack</samp>
@@ -66,7 +66,7 @@ type = "Person"
 [![Termux](https://img.shields.io/badge/⟩__%20Termux-black)](#)
 
 # <samp>ls badges</samp>
-| [![Project Euler](https://projecteuler.net/profile/0xAhmad.png)](https://projecteuler.net/progress=0xAhmad) | [![Codewars](https://www.codewars.com/users/0xAhmad/badges/micro)](https://www.codewars.com/users/0xAhmad) |  [![roadmap.sh](https://roadmap.sh/card/wide/66632871e724e39e4d0927b1?variant=dark)](https://roadmap.sh/u/aalaqily) |
+| [![Project Euler](https://projecteuler.net/profile/0xAhmad.png)](https://projecteuler.net/progress=0xAhmad) | [![Codewars](https://www.codewars.com/users/0xAhmad/badges/micro)](https://www.codewars.com/users/0xAhmad) |  [![roadmap.sh](https://roadmap.sh/card/wide/66632871e724e39e4d0927b1?variant=dark)](https://roadmap.sh/u/ahmadnull) |
 | -------- | ------- | ------- |
 
 <!---Variables go down there 👇-->
