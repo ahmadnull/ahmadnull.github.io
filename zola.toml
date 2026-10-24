@@ -52,7 +52,7 @@ contact_form_script_id = "<script-identifier>"
 monitor = false
 
 # Menu items
-menu = [{ url = "/about", name = "About" }, { url = "/tags", name = "Tags" }]
+menu = [{ url = "/whoami", name = "whoami" }, { url = "/tags", name = "ls tags" }]
 
 language_code = "en-US"
 
