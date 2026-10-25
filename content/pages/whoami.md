@@ -17,5 +17,4 @@ type = "Person"
 
 ## Contact Me
 
-{{ contact_form
-() }}
+{{<contact_form config />}}
