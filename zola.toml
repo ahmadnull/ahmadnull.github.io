@@ -60,7 +60,7 @@ language_code = "en-US"
 # Enable OpenGraph metadata
 opengraph = true
 
-timezone = "Africa/Cairo"
+timezone = "UTC"
 
 # The path to cv file if you use cv shortcode
 # cv_file = "/files/Curriculum_Vitae.pdf"
